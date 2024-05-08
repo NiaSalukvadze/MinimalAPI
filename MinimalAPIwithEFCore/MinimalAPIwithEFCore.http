@@ -1,0 +1,6 @@
+@MinimalAPIwithEFCore_HostAddress = http://localhost:5233
+
+GET {{MinimalAPIwithEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@MinimalAPIwithCQRS_EF_Dapper_HostAddress = http://localhost:5274
+
+GET {{MinimalAPIwithCQRS_EF_Dapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

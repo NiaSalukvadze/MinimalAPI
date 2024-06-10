@@ -1,6 +1,0 @@
-@MinimalAPIwithCQRS_ADONET_Dapper_HostAddress = http://localhost:5164
-
-GET {{MinimalAPIwithCQRS_ADONET_Dapper_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -1,0 +1,6 @@
+@MinimalAPIwithCQRS_ADONET_EF_HostAddress = http://localhost:5232
+
+GET {{MinimalAPIwithCQRS_ADONET_EF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

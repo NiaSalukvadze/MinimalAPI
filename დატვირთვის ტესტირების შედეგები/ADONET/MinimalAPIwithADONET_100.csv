@@ -1,3 +1,0 @@
-Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
-HTTP Request,400,3801,1450,9542,11266,12444,260,13584,34.500%,17.04812,5551.61,5.02
-TOTAL,400,3801,1450,9542,11266,12444,260,13584,34.500%,17.04812,5551.61,5.02
